@@ -24,18 +24,18 @@ Responsible, sociable, hardworking, capable of self-education. I like to spend f
 
 ### Work experience
 
-**January 2018 – Today  - software engineer,  Liftservis OJSC, Minsk, Belarus**
-**Projects:** Support VB and 1C apps;
-**Project Role:** Middle Developer;
-**Tasks and Accomplishments:**
+**January 2018 – Today  - software engineer,  Liftservis OJSC, Minsk, Belarus**\
+**Projects:** Support VB and 1C apps;\
+**Project Role:** Middle Developer;\
+**Tasks and Accomplishments:**\
 * Development of new modules;
-* Adding new features;
-**Languages:** 1C, VB, SQL, JavaScript, HTML/CSS;
-**Tools:** Git, Visual Studio Code, 1С;
-**Source Control:** Git;
-**Databases:** MySQL, MS SQL Server;
-**OS:** Windows;
-**IDE:** Visual Studio Code.
+* Adding new features;\
+**Languages:** 1C, VB, SQL, JavaScript, HTML/CSS;\
+**Tools:** Git, Visual Studio Code, 1С;\
+**Source Control:** Git;\
+**Databases:** MySQL, MS SQL Server;\
+**OS:** Windows;\
+**IDE:** Visual Studio Code.\
 
 ### Education
 
